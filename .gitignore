@@ -1,0 +1,13 @@
+# IDEA
+*.iml
+.idea/
+
+# compile output
+target/
+dependency-reduced-pom.xml
+
+# maxOS
+.DS_store
+
+# proto result
+*/src/main/scala/com/ipinyou/mip/analyze/model/hive/*
